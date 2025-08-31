@@ -1,0 +1,1 @@
+var e={PING:`https://transmission.cloudax.es/ping`,EVENT:`wss://transmission.cloudax.es/_event`,UPLOAD:`https://transmission.cloudax.es/_upload`,AUTH_CODESPACE:`https://transmission.cloudax.es/auth-codespace`,HEALTH:`https://transmission.cloudax.es/_health`,ALL_ROUTES:`https://transmission.cloudax.es/_all_routes`,TEST_MODE:!1};export{e as b};
